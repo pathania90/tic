@@ -50,7 +50,7 @@ btns.forEach((btn)=>{
 }
 
 const showWinner = (winner)=>{
-    msg.innerText = `congratulations, Winner is ${winner}`;
+    msg.innerText = `congrat, Winner is ${winner}`;
     windiv.classList.remove("hide");
 }
   
